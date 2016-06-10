@@ -1,3 +1,13 @@
-# Logmem
-
+Logmem
+======
 Logs memory usage to stdout.
+
+Dokku
+-----
+You can use this with [Dokku](https://github.com/directactioneverywhere/dxe-learn2dokku). Deploy it to `<appname>`, then run:
+
+    dokku logs <appname>
+
+License
+-------
+This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See the COPYING file for more details.
